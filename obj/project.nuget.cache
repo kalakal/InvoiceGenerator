@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jftsxKUS7UC0tNoutA3Gk5trBGuVulRZUHsvQ7bi0Ik6p4Maw3Wmzm5enU/GRzXEt7lgSawCDpz8Q0Fg37PokQ==",
+  "success": true,
+  "projectFilePath": "E:\\bridgelab\\InvoiceGenerator\\InvoiceGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Syed Faizan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

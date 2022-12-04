@@ -1,0 +1,14 @@
+E:\bridgelab\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.exe
+E:\bridgelab\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.deps.json
+E:\bridgelab\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.runtimeconfig.json
+E:\bridgelab\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.runtimeconfig.dev.json
+E:\bridgelab\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.dll
+E:\bridgelab\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.pdb
+E:\bridgelab\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.csproj.AssemblyReference.cache
+E:\bridgelab\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelab\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.AssemblyInfoInputs.cache
+E:\bridgelab\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.AssemblyInfo.cs
+E:\bridgelab\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.csproj.CoreCompileInputs.cache
+E:\bridgelab\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.dll
+E:\bridgelab\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.pdb
+E:\bridgelab\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.genruntimeconfig.cache
